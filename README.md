@@ -1,6 +1,6 @@
 # EADemo
 
-* External accessory framework demo using [ExternalAccessory.framework](https://developer.apple.com/documentation/externalaccessory) using Swift 4
+* External accessory framework demo using [ExternalAccessory.framework](https://developer.apple.com/documentation/externalaccessory) in Swift 4
 
 * get Connected(BllueTooth, USB and WiFi) devices list.
 
