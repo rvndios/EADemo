@@ -67,7 +67,7 @@ class ConfigurationTerminalViewController: UIViewController {
             let data = string.data(using: .utf8)
             sessionController.writeData(data: data!)
         } else {
-            let data = string.dataFromHexadecimalString()
+            let data = string.dataFromHexString()
             sessionController.writeData(data: data!)
         }
     }
